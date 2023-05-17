@@ -59,6 +59,11 @@ body {
     color: #fff;
     text-decoration: underline;
   }
+
+  .jumbotron-fluid{
+    background-image: url("eternacity.jpg");
+
+  }
   
   /* Main content styles */
   
