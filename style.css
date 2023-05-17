@@ -59,6 +59,24 @@ body {
     color: #fff;
     text-decoration: underline;
   }
+
+  /* Buildings */
+  #buildings h3 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  #buildings img {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 250px;
+
+  }
+
+  /* News */
+  #social p {
+    text-align: justify;
+  }
   
 
   /* Main content styles */
