@@ -140,6 +140,16 @@ body {
     text-align: center;
   }
 
+  /* Statue Container */
+  #history img[src=
+  "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.2xGKw1m0L7ZSETAKhkfYLgHaK_%26pid%3DApi&f=1&ipt=e67fa31c266b5e9f68bff727b16bfeec24b136c8a5ff129e6e4f2d6ee5d4d6f7&ipo=images"]
+  {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    height: 250px;
+    width: 100px;
+  }
 
   /* Cynthia Container */
   #cynthia h3 {
