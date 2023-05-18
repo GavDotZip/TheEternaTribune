@@ -151,6 +151,16 @@ body {
     width: 100px;
   }
 
+  #history .col-md-8{
+    text-align: justify;
+  }
+
+  /* Museum Container */
+  #museum p{
+    text-align: justify;
+    
+  }
+
   /* Cynthia Container */
   #cynthia h3 {
     padding-top: 10px;
