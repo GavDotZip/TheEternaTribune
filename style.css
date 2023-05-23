@@ -161,6 +161,39 @@ body {
     
   }
 
+  /* Gym Container */
+  #gym img[src=
+  "https://archives.bulbagarden.net/media/upload/thumb/b/b0/Gardenia_Cherubi_Adventures.png/300px-Gardenia_Cherubi_Adventures.png"]
+  {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    height: 250px;
+    width: 300px;
+  }
+
+#gym img[src=
+"https://archives.bulbagarden.net/media/upload/thumb/a/a1/Eterna_Gym_field.png/375px-Eterna_Gym_field.png"]
+  {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    height: 250px;
+    width: 300px;
+  }
+
+#gym img[src=
+"https://archives.bulbagarden.net/media/upload/thumb/6/67/Gardenia_Roserade_Adventures.png/300px-Gardenia_Roserade_Adventures.png"]
+  {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    height: 250px;
+    width: 300px;
+  }
+
+/* Gym Table */
+
   /* Cynthia Container */
   #cynthia h3 {
     padding-top: 10px;
